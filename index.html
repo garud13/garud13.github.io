@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>DEEPAK KUMAR - Portfolio</title>
+  <meta content="I am an experienced PHP Developer and able to work in a team with problem solving skills in creating and designing a software" name="description">
+
+  <meta content="PHP Developer, Software Developer , Website Developer, Website Designer, Ethical Hacking" name="keywords">
+
+  <!-- Favicons -->
+  <link href="img/favicon.jpg" rel="icon">
+  <link href="img/favicon.jpg" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="img/favicon.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.php">Deepak Kumar</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a target="_blank" href="tel:+917983875643" class="twitter"><i class="fa fa-mobile-phone"></i></a>
+          <a target="_blank" href="mailto:dk.ceh2018@gmail.com" class="facebook"><i class="fa fa-envelope"></i></a>
+          <a target="_blank" href="https://t.me/garud2913" class="instagram"><i class="fa fa-telegram"></i></a>
+          <a target="_blank" href="https://wa.me/+917983875643/?text=Hello Deepak got redirected from your portfolio" class="google-plus"><i class="fa fa-whatsapp"></i></a>
+          <a target="_blank" href="https://www.linkedin.com/in/garud13/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        </div>
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+          <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>DEEPAK KUMAR</h1>
+      <p>I'm <span class="typed" data-typed-items="a Experienced PHP Developer, Back end Developer, PHP MySQL Developer"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>I am an experienced PHP Developer and able to work in a team with problem solving skills in creating and designing a software</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="img/favicon.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>Full Stack Developer.</h3>
+           
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>garud13.github.io</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91-7983 875 643</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Moradabad, UP</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+              
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Graduate</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>dk.ceh2018@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                </ul>
+              </div>
+            </div>
+            <p style="text-align:justify;">
+              I have developed a Veterinary Hospital CRM, a Business CRM, School ERP Software with some dynamic and Static Websites. For few of them i have also developed Android App.<br>
+              All projects currently running live.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+  
+
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Tech. Skills</h2>
+          
+        </div>
+
+        <div class="row skills-content">
+
+          <div class="col-lg-6" data-aos="fade-up">
+
+            <div class="progress">
+              <span class="skill">HTML & CSS</span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="95"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">OOPs </span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript </span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">PHP & MySQL</span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Android Programming </span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Ethical Hacking </span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Skills Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+          
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title text-danger"><i class="fa fa-star"></i> Sumary</h3>
+            <div class="resume-item pb-0">
+              <h4>DEEPAK KUMAR</h4>
+             <p style="text-align:justify"><em>I am an experienced PHP Developer and
+able to work in a team with problem
+solving skills in creating and designing a
+software</em></p>
+              <ul>
+                <li>Moradabad (U.P) - 244001 , <img src="https://2.bp.blogspot.com/-iiqlKwbPJ1c/WzkClfdKs-I/AAAAAAAAowk/vZVhlLUuCRAXBA1tI4quKia16O4zNX09wCLcBGAs/s1600/Flag_of_India.gif" width="40" height="20" alt="Indian"></li>
+                <li>+91 7983 875 643</li>
+                <li>dk.ceh2018@gmail.com</li>
+              </ul>
+            </div>
+
+            <h3 class="resume-title text-danger"><i class="fa fa-star"></i> Education</h3>
+
+            <div class="resume-item">
+              <h4>Bachelor's in Computer Applications</h4>
+              <h5>2020 - 2023</h5>
+              <p><em>College of Computing Science & Information Technology</em></p>
+              <p><img src="https://www.iaspaper.net/wp-content/uploads/2018/08/TMU-300x300.jpg" width="40" height="30">Teerthankar Mahaveer University , Moradabad (U.P) - 244001</p>
+            </div>
+
+            <div class="resume-item">
+              <h4>ITI in Computer Operator & Programming Assistant</h4>
+              <h5>2018-2019</h5>
+              <p>Govt. ITI Bilaspur, Dist: Rampur (U.P)- 244901</p>
+              <p><img src="https://res.cloudinary.com/hfci/image/upload/v1524546660/iti-colleges-in-noida_rc5zof.png" width="50" height="40"><em>NCVT</em></p>
+              
+            </div>
+
+             <div class="resume-item">
+              <h4>Intermediate</h4>
+              <h5>2016-2017</h5>
+              <p><em>Science</em></p>
+              <p><img src="http://www.kaamkaj.com/wp-content/uploads/cbse-logo.gif" width="50" height="40"> CBSE</p>
+            </div>
+
+             <div class="resume-item">
+              <h4>High School</h4>
+              <h5>2014-2015</h5>
+              <p><em>Science</em></p>
+              <p><img src="http://www.kaamkaj.com/wp-content/uploads/cbse-logo.gif" width="50" height="40"> CBSE</p>
+            </div>
+
+
+
+  <h3 class="resume-title text-danger"><i class="fa fa-star"></i> Certificates</h3>
+
+
+            <div class="resume-item">
+              <h4>Computer Hacking & Forensics</h4>
+              <p><em>2017 by Cybrary</em></p>
+              
+            </div>
+
+            <div class="resume-item">
+              <h4>Penetration Testing and Ethical Hacking</h4>
+              <p><em>2017 by Cybrary</em></p>
+              
+            </div>
+
+              <div class="resume-item">
+              <h4>Reserch Paper - “Cyber Security-A Challenge”</h4>
+              <p><em>by [ICHVHE 2022]</em></p>
+              
+            </div>
+
+             <div class="resume-item">
+              <h4>Reserch Paper - “Human Values in Present Scenario”</h4>
+              <p><em>by [ICHVHE 2022]</em></p>
+              
+            </div>
+
+
+             <div class="resume-item">
+              <h4>Software Development in PHP MySQL</h4>
+              <p><em>2022 by JSI Software Solutions</em></p>
+              
+            </div>
+
+
+          </div>
+
+
+
+
+
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title text-danger"><i class="fa fa-star"></i> Professional Experience</h3>
+
+
+            <div class="resume-item">
+              <h4>Senior PHP Developer & Project Manager</h4>
+              <h5>2020 - Present</h5>
+              <p><em>Rampur (U.P) - 244901  <img src="https://2.bp.blogspot.com/-iiqlKwbPJ1c/WzkClfdKs-I/AAAAAAAAowk/vZVhlLUuCRAXBA1tI4quKia16O4zNX09wCLcBGAs/s1600/Flag_of_India.gif" width="40" height="20" alt="Indian"></em></p>
+              <ul style="text-align:justify;">
+                <li>Lead in the design, development, and implementation of the Application.</li>
+                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
+                <li>Supervise the assessment of all Functioning in order to ensure quality and accuracy of the application. Before the Delivery of the software to the Client</li>
+                
+              </ul>
+            </div>
+
+
+            <h3 class="resume-title text-danger"><i class="fa fa-star"></i> Projects & Achievements</h3>
+
+
+            <div class="resume-item">
+              <h4>Live Running Projects List</h4><br>
+              <li>Veterinary Hospital ERP Software</li><br>
+              <li>School ERP Software</li><br>
+              <li>Business CRM Software [Dial Fuel]</li><br>
+              <li>Business CRM Software [ JSI Software Soltions]</li><br>
+
+              <li>Dynamic / Static Websites</li>
+                
+              </ul>
+            </div>
+
+            <div class="resume-item">
+              <h4>Achievement</h4><br>
+              <li>Published Research Paper on Cyber Security</li><br>
+              <li>Published Research Paper on Human Values in Present Scenario</li><br>
+              <em>In International Conference cum Conclave on Human Values In Higher Education
+For Holistic Development organized by Faculty of Engineering, Teerthanker Mahaveer
+
+University, UP, India on <u>15 January 2022</u></em>
+              </ul>
+            </div>
+
+
+
+             <h3 class="resume-title text-danger"><i class="fa fa-star"></i> Personal Details</h3>
+
+
+            <div class="resume-item">
+              <h4>Interests</h4>
+             
+              <li>Gadgets</li>
+              <li>Technologies</li>
+              <li>Ethical Hacking</li>
+
+            </div>
+
+            <div class="resume-item">
+                
+              <h4>Hobbies</h4>
+              <li>listening music</li>
+              <li>Cricket Playing</li>
+              <li>Computer Gaming</li>
+            </div>
+
+
+
+
+          </div>
+
+
+
+  
+
+
+
+
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Portfolio</h2>
+          <p>Currently Live Running Projects</p>
+        </div>
+
+     
+<div class="row">
+
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-info text-white text-center">Veterinory CRM Portal</div>
+      <div class="card-body">
+        Sai Pet Care - Admin Portal
+        <br>
+        <embed src="https://admin.saipetcare.com/" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://admin.saipetcare.com/" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-info text-white text-center">Veterinory Android App</div>
+      <div class="card-body">
+        Sai Pet Care - Android App for patients
+        <br>
+        <embed src="https://play.google.com/store/apps/details?id=com.sai.pet.care" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://play.google.com/store/apps/details?id=com.sai.pet.care" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-info text-white text-center">Veterinory Static Website</div>
+      <div class="card-body">
+        Sai Pet Care - Website
+        <br>
+        <embed src="https://saipetcare.com/" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://saipetcare.com/" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<br>
+
+
+
+<div class="row">
+
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-primary text-white text-center">Business CRM Portal</div>
+      <div class="card-body">
+        Dial Fuel - Executive Portal
+        <br>
+        <embed src="https://executive.dialfuel.com/" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://executive.dialfuel.com/" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-primary text-white text-center">Business Android Apps</div>
+      <div class="card-body">
+        <h5>Dial Fuel Andoid Apps</h5>
+
+        <li><i class="fa fa-android"></i> Client/User: <a href="https://play.google.com/store/apps/details?id=com.dialfuel.client" target="_blank">View</a></li><br>
+
+        <li><i class="fa fa-android"></i> Franchisee: <a href="https://play.google.com/store/apps/details?id=com.dialfuel.franchisee" target="_blank">View</a></li><br>
+
+
+        <li><i class="fa fa-android"></i> Driver: <a href="https://play.google.com/store/apps/details?id=com.dialfuel.driver" target="_blank">View</a></li>
+<br>
+      </div>
+      <div class="card-footer" >
+       <a href="https://play.google.com/store/apps/details?id=com.dialfuel.client" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-primary text-white text-center">Static Website</div>
+      <div class="card-body">
+        Dial Fuel - Website
+        <br>
+        <embed src="https://www.dialfuel.com/" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://www.dialfuel.com/" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+<br><br>
+
+<div class="row">
+
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-info text-white text-center">School ERP Portal</div>
+      <div class="card-body">
+        Arybhatta International School staff Portal - MBD
+        <br>
+        <embed src="https://staff.aryabhattaintsch.org/" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://staff.aryabhattaintsch.org/" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-info text-white text-center">School Dynamic Website</div>
+      <div class="card-body">
+        <h5>Arybhatta International School - MBD</h5>
+<embed src="https://aryabhattaintsch.org/" width="100%" height="150px"></embed>
+       
+      </div>
+      <div class="card-footer" >
+      
+
+        <a href="https://aryabhattaintsch.org/" target="_blank" style="float: right;" class="btn btn-warning text-white">View Website</a>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="col-md-4">
+    <div class="card">
+      <div class="card-header bg-info text-white text-center">School Website Admin</div>
+      <div class="card-body">
+        Arybhatta International School - MBD Website Admin
+        <br>
+        <embed src="https://aryabhattaintsch.org/web-admin" width="100%" height="150px"></embed>
+      </div>
+      <div class="card-footer" >
+       <a href="https://aryabhattaintsch.org/web-admin" target="_blank" style="float: right;" class="btn btn-warning text-white">View</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>Provided By Me</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+            <div class="icon"><i class="bi bi-globe"></i></div>
+            <h4 class="title"><a href="">Website Development</a></h4>
+            <p class="description">Static & Dynamic Website</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon"><i class="fa fa-file-text"></i></div>
+            <h4 class="title"><a href="">Softwares</a></h4>
+            <p class="description">CRM & ERP Softwares for any business</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon"><i class="bi bi-bar-chart"></i></div>
+            <h4 class="title"><a href="">Digital Marketing</a></h4>
+            <p class="description">SEO / SEM marketing</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon"><i class="fa fa-android"></i></div>
+            <h4 class="title"><a href="">App Development</a></h4>
+            <p class="description">Android App Development</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon"><i class="bi bi-brightness-high"></i></div>
+            <h4 class="title"><a href="">Consultancy</a></h4>
+            <p class="description">Consult for your business</p>
+          </div>
+        
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+   
+           
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>Feel Free to ask...!</p>
+        </div>
+
+        <div class="row" data-aos="fade-in">
+
+          <div class="col-lg-5 d-flex align-items-stretch">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>Moradabad (U.P) - 244001 , <img src="https://2.bp.blogspot.com/-iiqlKwbPJ1c/WzkClfdKs-I/AAAAAAAAowk/vZVhlLUuCRAXBA1tI4quKia16O4zNX09wCLcBGAs/s1600/Flag_of_India.gif" width="40" height="20" alt="Indian"></p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p><a href="mailto:dk.ceh2018@gmail.com">dk.ceh2018@gmail.com</a></p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p><a href="tel:+917983875643">+91 7983 875 643</a></p>
+              </div>
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+            </div>
+
+          </div>
+
+          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="name">Your Name</label>
+                  <input type="text" name="name" class="form-control" id="name" required>
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="name">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email" required>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="name">Subject</label>
+                <input type="text" class="form-control" name="subject" id="subject" required>
+              </div>
+              <div class="form-group">
+                <label for="name">Message</label>
+                <textarea class="form-control" name="message" rows="10" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        <?php echo date('Y'); ?>&copy; Copyright <strong><span>Deepak Kumar</span></strong>
+      </div>
+      <div class="credits">
+       
+        Designed with <i class="fa fa-heart text-danger"></i>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
