@@ -1,0 +1,10 @@
+# robots.txt — Deepak Kumar Portfolio
+# https://garud13.github.io/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://garud13.github.io/sitemap.xml
+
+# Block no pages — full site is public
