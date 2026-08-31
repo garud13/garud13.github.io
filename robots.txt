@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garud13.github.io/sitemap.xml
