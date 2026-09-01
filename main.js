@@ -19,7 +19,7 @@ function initTheme() {
   const html = document.documentElement;
 
   // Retrieve saved theme or default to 'dark'
-  const savedTheme = localStorage.getItem('dk_portfolio_theme') || 'dark';
+  const savedTheme = localStorage.getItem('dk_portfolio_theme') || 'light';
   setTheme(savedTheme);
 
   if (themeBtn) {
